@@ -125,11 +125,10 @@ div h2{
 .card{
 
     background-color: #A5F0C5;
-    height: 450px;
     width: 30%;
 
     text-align: center;
-    padding: 20px;
+    padding: 60px;
     display: flex;
     flex-direction: column;
     align-items: center;
